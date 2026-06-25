@@ -7,7 +7,7 @@ Welcome to my repository dedicated to mastering CSS! As I progress on my path to
 * **CSS3** (Flexbox, Grid, Animations, Transitions)
 
 ## 📂 Projects Included
-* **Adoption Page:**A small demo page for adoption.
+* **Adoption Page:** A small demo page for adoption.
 * **Photography Page:** A demo page for photography collections.
 
 ## 🎯 Learning Goals
